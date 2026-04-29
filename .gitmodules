@@ -1,0 +1,3 @@
+[submodule "wind_sensor_signalk_bridge"]
+	path = wind_sensor_signalk_bridge
+	url = https://github.com/frontierpsycho/wind_sensor_signalk_bridge
